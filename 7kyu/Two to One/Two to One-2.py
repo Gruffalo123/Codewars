@@ -2,7 +2,7 @@ def longest(str1,str2):
     str0 = str1 + str2
     s = set(str0)
     s1 = sorted(s)
-    print(s1)
+    # print(s1)
     s2 = ''
     for k in s1:
         s2 += k

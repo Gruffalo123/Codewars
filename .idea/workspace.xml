@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a3fff20-6341-49b2-b860-e9ee040d1706" name="Default Changelist" comment="" />
+    <list default="true" id="7a3fff20-6341-49b2-b860-e9ee040d1706" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,9 +12,11 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/code_wars$Two_to_One_2.coverage" NAME="Two to One-2 Coverage Results" MODIFIED="1556629962952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7kyu" />
+    <SUITE FILE_PATH="coverage/Codewars$Two_to_One_2__1_.coverage" NAME="Two to One-2 (1) Coverage Results" MODIFIED="1556632457464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7kyu/Two to One" />
     <SUITE FILE_PATH="coverage/code_wars$adapters.coverage" NAME="adapters Coverage Results" MODIFIED="1556613787301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/pycharm.py/venv/Lib/site-packages/requests" />
     <SUITE FILE_PATH="coverage/code_wars$test.coverage" NAME="test Coverage Results" MODIFIED="1556629992852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7kyu" />
     <SUITE FILE_PATH="coverage/code_wars$robot.coverage" NAME="robot Coverage Results" MODIFIED="1556623515194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7kyu" />
+    <SUITE FILE_PATH="coverage/Codewars$Two_to_One_1.coverage" NAME="Two to One-1 Coverage Results" MODIFIED="1556632471553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7kyu/Two to One" />
     <SUITE FILE_PATH="coverage/code_wars$Two_to_One_1.coverage" NAME="Two to One-1 Coverage Results" MODIFIED="1556630415136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7kyu/Two to One" />
   </component>
   <component name="FUSProjectUsageTrigger">
@@ -54,6 +58,14 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1811359558">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -61,7 +73,7 @@
         <entry file="file://$PROJECT_DIR$/7kyu/Two to One/Two to One-1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="81">
-              <caret line="18" selection-start-line="18" selection-end-line="24" selection-end-column="16" />
+              <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
               <folding>
                 <marker date="1556630415042" expanded="true" signature="267:268" ph="..." />
               </folding>
@@ -69,16 +81,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/7kyu/Two to One/Two to One-2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="27">
+              <caret line="1" selection-start-line="1" selection-end-line="8" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/7kyu/Two to One/describle">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="54">
@@ -95,6 +107,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -116,8 +131,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="73" />
-    <option name="y" value="71" />
+    <option name="x" value="105" />
+    <option name="y" value="87" />
     <option name="width" value="1329" />
     <option name="height" value="761" />
   </component>
@@ -126,29 +141,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="code wars" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code wars" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="code wars" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code wars" type="462c0819:PsiDirectoryNode" />
-              <item name="7kyu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="code wars" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code wars" type="462c0819:PsiDirectoryNode" />
-              <item name="7kyu" type="462c0819:PsiDirectoryNode" />
-              <item name="Two to One" type="462c0819:PsiDirectoryNode" />
+              <item name="Codewars" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Codewars" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -198,6 +202,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Two to One-2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="code wars" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7kyu/Two to One" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7kyu/Two to One/Two to One-2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Two to One-2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="code wars" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -212,28 +238,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="F:\python_project\code wars\7kyu\Two to One\Two to One-2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="adapters" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="code wars" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="D:/pycharm.py/venv/Lib/site-packages/requests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:/pycharm.py/venv/Lib/site-packages/requests/adapters.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -288,18 +292,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.robot" />
-      <item itemvalue="Python.adapters" />
       <item itemvalue="Python.test" />
       <item itemvalue="Python.Two to One-2" />
       <item itemvalue="Python.Two to One-1" />
+      <item itemvalue="Python.Two to One-2 (1)" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.Two to One-1" />
+        <item itemvalue="Python.Two to One-2 (1)" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.Two to One-2" />
         <item itemvalue="Python.robot" />
-        <item itemvalue="Python.adapters" />
       </list>
     </recent_temporary>
   </component>
@@ -318,13 +322,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="73" y="71" width="1329" height="761" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2466509" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.250591" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33652312" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33546326" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -364,20 +369,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/7kyu/robot.py">
+    <entry file="file://$PROJECT_DIR$/7kyu/robot.py" />
+    <entry file="file://$PROJECT_DIR$/7kyu/Two to One/describle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1323">
-          <caret line="49" column="23" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="54">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/7kyu/Two to One/Two to One-1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
-          <caret line="18" selection-start-line="18" selection-end-line="24" selection-end-column="16" />
+          <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
           <folding>
             <marker date="1556630415042" expanded="true" signature="267:268" ph="..." />
           </folding>
@@ -386,15 +389,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/7kyu/Two to One/Two to One-2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7kyu/Two to One/describle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="27">
+          <caret line="1" selection-start-line="1" selection-end-line="8" selection-end-column="23" />
         </state>
       </provider>
     </entry>
