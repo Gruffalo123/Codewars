@@ -1,0 +1,13 @@
+取2串s1并s2包括只字母a来z。返回一个新的排序字符串，尽可能长，包含不同的字母，
+每次只取一次 - 来自s1或s2。
+
+Take 2 strings s1 and s2 including only letters from ato z. Return a new sorted string, the longest possible, containing distinct letters,
+
+each taken only once - coming from s1 or s2.
+Examples:
+a = "xyaabbbccccdefww"
+b = "xxxxyyyyabklmopq"
+longest(a, b) -> "abcdefklmopqwxy"
+
+a = "abcdefghijklmnopqrstuvwxyz"
+longest(a, a) -> "abcdefghijklmnopqrstuvwxyz"
