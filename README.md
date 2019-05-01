@@ -1,2 +1,2 @@
 # Codewars
-practice in codewars
+practice on codewars
