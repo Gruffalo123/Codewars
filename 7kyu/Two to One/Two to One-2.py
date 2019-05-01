@@ -16,6 +16,3 @@ if __name__ == '__main__':
 if __name__ == '__main__':
     a = "abcdefghijklmnopqrstuvwxyz"
     longest(a,a)
-
-sum = 1.0000
-print(round(sum,4))
