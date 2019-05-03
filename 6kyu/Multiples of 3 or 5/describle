@@ -1,0 +1,11 @@
+If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.
+
+Finish the solution so that it returns the sum of all the multiples of 3 or 5 below the number passed in.
+
+Note: If the number is a multiple of both 3 and 5, only count it once.
+
+如果我们列出10以下的所有自然数是3或5的倍数，我们得到3,5,6和9.这些倍数的总和是23。
+
+完成解决方案，使其返回传入数字下方所有3或5的倍数之和。
+
+注意：如果号码的倍数都 3和5，只计算它一次。
