@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a3fff20-6341-49b2-b860-e9ee040d1706" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/7kyu/Two to One/Two to One-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6kyu/Tribonacci Sequence/Tribonacci_Sequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6kyu/Tribonacci Sequence/describle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7kyu/Two to One/Two to One-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/7kyu/Two to One/Two to One-2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6kyu/Sum of Digits/describle" beforeDir="false" afterPath="$PROJECT_DIR$/6kyu/Sum of Digits/describle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6kyu/Sum of Digits/good_solutions.py" beforeDir="false" afterPath="$PROJECT_DIR$/6kyu/Sum of Digits/good_solutions.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,10 +18,16 @@
     <SUITE FILE_PATH="coverage/code_wars$Two_to_One_2.coverage" NAME="Two to One-2 Coverage Results" MODIFIED="1556629962952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7kyu" />
     <SUITE FILE_PATH="coverage/Codewars$Two_to_One_2__1_.coverage" NAME="Two to One-2 (1) Coverage Results" MODIFIED="1556696139332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7kyu/Two to One" />
     <SUITE FILE_PATH="coverage/Codewars$Two_to_One_3.coverage" NAME="Two to One-3 Coverage Results" MODIFIED="1556696429331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7kyu/Two to One" />
+    <SUITE FILE_PATH="coverage/Codewars$good_solutions.coverage" NAME="good_solutions Coverage Results" MODIFIED="1556713825373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6kyu/Sum of Digits" />
+    <SUITE FILE_PATH="coverage/Codewars$Two_to_One_1.coverage" NAME="Two to One-1 Coverage Results" MODIFIED="1556632471553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7kyu/Two to One" />
+    <SUITE FILE_PATH="coverage/Codewars$others_good_solution.coverage" NAME="others_good_solution Coverage Results" MODIFIED="1556700295056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7kyu/Sum of the first nth term of Series" />
+    <SUITE FILE_PATH="coverage/Codewars$Sum_of_the_first_nth_term_of_Series2.coverage" NAME="Sum of the first nth term of Series2 Coverage Results" MODIFIED="1556700138363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7kyu/Sum of the first nth term of Series" />
+    <SUITE FILE_PATH="coverage/Codewars$Tribonacci_Sequence.coverage" NAME="Tribonacci_Sequence Coverage Results" MODIFIED="1556888719569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6kyu/Tribonacci Sequence" />
+    <SUITE FILE_PATH="coverage/Codewars$Sum_of_Digits1.coverage" NAME="Sum of Digits1 Coverage Results" MODIFIED="1556702142739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6kyu" />
     <SUITE FILE_PATH="coverage/code_wars$adapters.coverage" NAME="adapters Coverage Results" MODIFIED="1556613787301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/pycharm.py/venv/Lib/site-packages/requests" />
     <SUITE FILE_PATH="coverage/code_wars$test.coverage" NAME="test Coverage Results" MODIFIED="1556629992852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7kyu" />
+    <SUITE FILE_PATH="coverage/Codewars$Sum_of_the_first_nth_term_of_Series1.coverage" NAME="Sum of the first nth term of Series1 Coverage Results" MODIFIED="1556697500844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7kyu/Sum of the first nth term of Series" />
     <SUITE FILE_PATH="coverage/code_wars$robot.coverage" NAME="robot Coverage Results" MODIFIED="1556623515194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7kyu" />
-    <SUITE FILE_PATH="coverage/Codewars$Two_to_One_1.coverage" NAME="Two to One-1 Coverage Results" MODIFIED="1556632471553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7kyu/Two to One" />
     <SUITE FILE_PATH="coverage/code_wars$Two_to_One_1.coverage" NAME="Two to One-1 Coverage Results" MODIFIED="1556630415136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7kyu/Two to One" />
   </component>
   <component name="FUSProjectUsageTrigger">
@@ -64,30 +72,33 @@
     <session id="-1811359558">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.14" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="79" />
+          <entry key="py" value="584" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="79" />
+          <entry key="Python" value="584" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="2" />
+          <entry key="describle" value="3" />
+          <entry key="py" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="2" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Python" value="8" />
         </counts>
       </usages-collector>
     </session>
@@ -95,43 +106,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/7kyu/Two to One/Two to One-1.py">
+        <entry file="file://$PROJECT_DIR$/6kyu/Tribonacci Sequence/Tribonacci_Sequence.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+            <state relative-caret-position="162">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
               <folding>
-                <marker date="1556630415042" expanded="true" signature="267:268" ph="..." />
+                <marker date="1556888719493" expanded="true" signature="29:34" ph="..." />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/7kyu/Two to One/Two to One-2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/7kyu/Two to One/Two to One-3.py">
+        <entry file="file://$PROJECT_DIR$/6kyu/Tribonacci Sequence/describle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-              <folding>
-                <marker date="1556696285113" expanded="true" signature="23:28" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/7kyu/Two to One/describle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="228">
+              <caret line="12" column="209" selection-start-line="12" selection-start-column="209" selection-end-line="12" selection-end-column="209" />
             </state>
           </provider>
         </entry>
@@ -157,8 +147,17 @@
         <option value="$PROJECT_DIR$/7kyu/Two to One-2.py" />
         <option value="$PROJECT_DIR$/7kyu/Two to One/Two to One-1.py" />
         <option value="$PROJECT_DIR$/7kyu/Two to One/describle" />
-        <option value="$PROJECT_DIR$/7kyu/Two to One/Two to One-2.py" />
         <option value="$PROJECT_DIR$/7kyu/Two to One/Two to One-3.py" />
+        <option value="$PROJECT_DIR$/7kyu/Two to One/Two to One-2.py" />
+        <option value="$PROJECT_DIR$/7kyu/Sum of the first nth term of Series/Sum of the first nth term of Series1.py" />
+        <option value="$PROJECT_DIR$/7kyu/Sum of the first nth term of Series/describle" />
+        <option value="$PROJECT_DIR$/7kyu/Sum of the first nth term of Series/Sum of the first nth term of Series2.py" />
+        <option value="$PROJECT_DIR$/7kyu/Sum of the first nth term of Series/others_good_solution.py" />
+        <option value="$PROJECT_DIR$/6kyu/Sum of Digits1.py" />
+        <option value="$PROJECT_DIR$/6kyu/Sum of Digits/describle" />
+        <option value="$PROJECT_DIR$/6kyu/Sum of Digits/good_solutions.py" />
+        <option value="$PROJECT_DIR$/6kyu/Tribonacci Sequence/Tribonacci_Sequence.py" />
+        <option value="$PROJECT_DIR$/6kyu/Tribonacci Sequence/describle" />
       </list>
     </option>
   </component>
@@ -169,10 +168,13 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="158" />
-    <option name="y" value="88" />
+    <option name="x" value="38" />
+    <option name="y" value="29" />
     <option name="width" value="1329" />
     <option name="height" value="761" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -190,13 +192,13 @@
             <path>
               <item name="Codewars" type="b2602c69:ProjectViewProjectNode" />
               <item name="Codewars" type="462c0819:PsiDirectoryNode" />
-              <item name="7kyu" type="462c0819:PsiDirectoryNode" />
+              <item name="6kyu" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Codewars" type="b2602c69:ProjectViewProjectNode" />
               <item name="Codewars" type="462c0819:PsiDirectoryNode" />
-              <item name="7kyu" type="462c0819:PsiDirectoryNode" />
-              <item name="Two to One" type="462c0819:PsiDirectoryNode" />
+              <item name="6kyu" type="462c0819:PsiDirectoryNode" />
+              <item name="Tribonacci Sequence" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -213,6 +215,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\python_project\Codewars\6kyu\Sum of Digits" />
       <recent name="F:\python_project\code wars\7kyu\Two to One" />
     </key>
   </component>
@@ -228,8 +231,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Two to One-3">
-    <configuration name="Two to One-1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Tribonacci_Sequence">
+    <configuration name="Sum of Digits1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="code wars" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -237,12 +240,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7kyu/Two to One" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6kyu" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7kyu/Two to One/Two to One-1.py" />
+      <option name="SCRIPT_NAME" value="F:\python_project\Codewars\6kyu\Sum of Digits\Sum of Digits1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -251,7 +254,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Two to One-2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Sum of the first nth term of Series2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="code wars" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -259,12 +262,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7kyu/Two to One" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7kyu/Sum of the first nth term of Series" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7kyu/Two to One/Two to One-2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7kyu/Sum of the first nth term of Series/Sum of the first nth term of Series2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -273,7 +276,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Two to One-2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Tribonacci_Sequence" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="code wars" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -281,12 +284,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7kyu" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6kyu/Tribonacci Sequence" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="F:\python_project\code wars\7kyu\Two to One\Two to One-2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6kyu/Tribonacci Sequence/Tribonacci_Sequence.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -295,7 +298,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Two to One-3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="good_solutions" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="code wars" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -303,12 +306,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7kyu/Two to One" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6kyu/Sum of Digits" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7kyu/Two to One/Two to One-3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6kyu/Sum of Digits/good_solutions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -317,7 +320,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="others_good_solution" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="code wars" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -325,12 +328,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7kyu" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7kyu/Sum of the first nth term of Series" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="F:\python_project\code wars\7kyu\Two to One\Two to One-1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7kyu/Sum of the first nth term of Series/others_good_solution.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -340,19 +343,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.test" />
-      <item itemvalue="Python.Two to One-2" />
-      <item itemvalue="Python.Two to One-1" />
-      <item itemvalue="Python.Two to One-2 (1)" />
-      <item itemvalue="Python.Two to One-3" />
+      <item itemvalue="Python.Sum of the first nth term of Series2" />
+      <item itemvalue="Python.others_good_solution" />
+      <item itemvalue="Python.Sum of Digits1" />
+      <item itemvalue="Python.good_solutions" />
+      <item itemvalue="Python.Tribonacci_Sequence" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Two to One-3" />
-        <item itemvalue="Python.Two to One-2 (1)" />
-        <item itemvalue="Python.Two to One-1" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.Two to One-2" />
+        <item itemvalue="Python.Tribonacci_Sequence" />
+        <item itemvalue="Python.good_solutions" />
+        <item itemvalue="Python.Sum of Digits1" />
+        <item itemvalue="Python.others_good_solution" />
+        <item itemvalue="Python.Sum of the first nth term of Series2" />
       </list>
     </recent_temporary>
   </component>
@@ -370,16 +373,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="425" y="366" width="1329" height="761" extended-state="0" />
+    <frame x="38" y="29" width="1329" height="761" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.250591" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25847125" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33546326" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33546326" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.399361" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -419,13 +422,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/7kyu/robot.py" />
-    <entry file="file://$PROJECT_DIR$/7kyu/Two to One/describle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/1166145170/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="211">
@@ -435,8 +431,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/7kyu/Two to One/Two to One-2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        <state relative-caret-position="486">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
@@ -444,19 +440,86 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-          <folding>
-            <marker date="1556630415042" expanded="true" signature="267:268" ph="..." />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7kyu/Two to One/describle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/7kyu/Two to One/Two to One-3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
-          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7kyu/Sum of the first nth term of Series/Sum of the first nth term of Series1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7kyu/Sum of the first nth term of Series/Sum of the first nth term of Series2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7kyu/Sum of the first nth term of Series/others_good_solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7kyu/Sum of the first nth term of Series/describle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6kyu/Sum of Digits/Sum of Digits1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6kyu/Sum of Digits/good_solutions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6kyu/Sum of Digits/describle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6kyu/Tribonacci Sequence/Tribonacci_Sequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
           <folding>
-            <marker date="1556696285113" expanded="true" signature="23:28" ph="..." />
+            <marker date="1556888719493" expanded="true" signature="29:34" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6kyu/Tribonacci Sequence/describle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="209" selection-start-line="12" selection-start-column="209" selection-end-line="12" selection-end-column="209" />
         </state>
       </provider>
     </entry>
