@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a3fff20-6341-49b2-b860-e9ee040d1706" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/6kyu/Tribonacci Sequence/Tribonacci_Sequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6kyu/Tribonacci Sequence/describle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6kyu/Find the odd int/Find_the_odd_int.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6kyu/Find the odd int/describle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6kyu/Sum of Digits/describle" beforeDir="false" afterPath="$PROJECT_DIR$/6kyu/Sum of Digits/describle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6kyu/Sum of Digits/good_solutions.py" beforeDir="false" afterPath="$PROJECT_DIR$/6kyu/Sum of Digits/good_solutions.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +27,7 @@
     <SUITE FILE_PATH="coverage/Codewars$Sum_of_the_first_nth_term_of_Series1.coverage" NAME="Sum of the first nth term of Series1 Coverage Results" MODIFIED="1556697500844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7kyu/Sum of the first nth term of Series" />
     <SUITE FILE_PATH="coverage/code_wars$robot.coverage" NAME="robot Coverage Results" MODIFIED="1556623515194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7kyu" />
     <SUITE FILE_PATH="coverage/code_wars$Two_to_One_1.coverage" NAME="Two to One-1 Coverage Results" MODIFIED="1556630415136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7kyu/Two to One" />
+    <SUITE FILE_PATH="coverage/Codewars$Find_the_odd_int.coverage" NAME="Find_the_odd_int Coverage Results" MODIFIED="1556890777526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6kyu/Find the odd int" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-1815490101">
@@ -81,47 +80,46 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="584" />
+          <entry key="describle" value="2" />
+          <entry key="py" value="798" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="584" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Python" value="798" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="describle" value="3" />
-          <entry key="py" value="8" />
+          <entry key="describle" value="4" />
+          <entry key="py" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="8" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Python" value="9" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/6kyu/Tribonacci Sequence/Tribonacci_Sequence.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/6kyu/Find the odd int/Find_the_odd_int.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-              <folding>
-                <marker date="1556888719493" expanded="true" signature="29:34" ph="..." />
-              </folding>
+            <state relative-caret-position="216">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/6kyu/Tribonacci Sequence/describle">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/6kyu/Find the odd int/describle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="209" selection-start-line="12" selection-start-column="209" selection-end-line="12" selection-end-column="209" />
+            <state relative-caret-position="162">
+              <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -158,6 +156,8 @@
         <option value="$PROJECT_DIR$/6kyu/Sum of Digits/good_solutions.py" />
         <option value="$PROJECT_DIR$/6kyu/Tribonacci Sequence/Tribonacci_Sequence.py" />
         <option value="$PROJECT_DIR$/6kyu/Tribonacci Sequence/describle" />
+        <option value="$PROJECT_DIR$/6kyu/Find the odd int/Find_the_odd_int.py" />
+        <option value="$PROJECT_DIR$/6kyu/Find the odd int/describle" />
       </list>
     </option>
   </component>
@@ -198,7 +198,7 @@
               <item name="Codewars" type="b2602c69:ProjectViewProjectNode" />
               <item name="Codewars" type="462c0819:PsiDirectoryNode" />
               <item name="6kyu" type="462c0819:PsiDirectoryNode" />
-              <item name="Tribonacci Sequence" type="462c0819:PsiDirectoryNode" />
+              <item name="Find the odd int" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -231,7 +231,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Tribonacci_Sequence">
+  <component name="RunManager" selected="Python.Find_the_odd_int">
+    <configuration name="Find_the_odd_int" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="code wars" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6kyu/Find the odd int" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6kyu/Find the odd int/Find_the_odd_int.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Sum of Digits1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="code wars" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -246,28 +268,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="F:\python_project\Codewars\6kyu\Sum of Digits\Sum of Digits1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Sum of the first nth term of Series2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="code wars" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7kyu/Sum of the first nth term of Series" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7kyu/Sum of the first nth term of Series/Sum of the first nth term of Series2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -343,19 +343,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Sum of the first nth term of Series2" />
       <item itemvalue="Python.others_good_solution" />
       <item itemvalue="Python.Sum of Digits1" />
       <item itemvalue="Python.good_solutions" />
       <item itemvalue="Python.Tribonacci_Sequence" />
+      <item itemvalue="Python.Find_the_odd_int" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Find_the_odd_int" />
         <item itemvalue="Python.Tribonacci_Sequence" />
         <item itemvalue="Python.good_solutions" />
         <item itemvalue="Python.Sum of Digits1" />
         <item itemvalue="Python.others_good_solution" />
-        <item itemvalue="Python.Sum of the first nth term of Series2" />
       </list>
     </recent_temporary>
   </component>
@@ -373,7 +373,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="38" y="29" width="1329" height="761" extended-state="0" />
+    <frame x="38" y="29" width="1329" height="761" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25847125" />
@@ -506,6 +506,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/6kyu/Tribonacci Sequence/describle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="209" selection-start-line="12" selection-start-column="209" selection-end-line="12" selection-end-column="209" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/6kyu/Tribonacci Sequence/Tribonacci_Sequence.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
@@ -516,10 +523,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/6kyu/Tribonacci Sequence/describle">
+    <entry file="file://$PROJECT_DIR$/6kyu/Find the odd int/describle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="209" selection-start-line="12" selection-start-column="209" selection-end-line="12" selection-end-column="209" />
+        <state relative-caret-position="162">
+          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6kyu/Find the odd int/Find_the_odd_int.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
