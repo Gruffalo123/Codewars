@@ -8,16 +8,9 @@ practice on codewars
 
 ### 比如：  
 
-<font face="STCAIYUN">我是华文彩云</font>
-
 <font color=#00ffff size=7 face="黑体">难度：7Kyu < 6Kyu</font>
 
 ---
 
 ### 说明
 `describle.txt`里面是对问题的描述  
-
-
-<font face="STCAIYUN">我是华文彩云</font>  
-
-<font color=gray size=5>color=gray</font>
