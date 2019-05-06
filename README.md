@@ -6,9 +6,9 @@ practice on codewars
 &emsp;段位越高，段数越小  
 &emsp;段数越小的问题难度越高  
 
-### 比如：  
+#### 举例：  
 
-<font color=#00ffff size=7 face="黑体">难度：7Kyu < 6Kyu</font>
+**难度：7Kyu < 6Kyu**
 
 ---
 
