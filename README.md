@@ -8,7 +8,7 @@ practice on codewars
 
 #### 举例：  
 
-**难度：7Kyu < 6Kyu**
+&emsp;&emsp;**难度：7Kyu < 6Kyu**
 
 ---
 
