@@ -13,4 +13,4 @@ practice on codewars
 ---
 
 ### 说明
-`describle.txt`里面是对问题的描述  
+`description.txt`里面是对问题的描述  
