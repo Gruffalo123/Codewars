@@ -1,5 +1,11 @@
 # Codewars
-practice on codewars
+practice on codewars  
+---
+**在Codewars上面的日常练习记录等** 
+
+**附：** [个人地址](https://www.codewars.com/users/Gruffalo123)  
+
+**注：** 新手上路
 
 ### 说明:
 &emsp;不同目录下代表不同段数的问题  
