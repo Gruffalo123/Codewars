@@ -1,0 +1,17 @@
+Polycarpus在最好的Berland夜总会担任DJ，他经常在演出中使用dubstep音乐。最近，他决定拍几首旧歌并制作dubstep混音。
+
+我们假设一首歌由一些单词组成（不包含WUB）。为了使这首歌的dubstep混音，Polycarpus在歌曲的第一个单词之前插入一定数量的单词“WUB”（数字可能为零），在最后一个单词（数字可能为零）之后和单词之间插入（在任何一对相邻单词之间至少有一个），然后男孩将所有单词粘在一起，包括“WUB”，在一个字符串中，并在俱乐部播放歌曲。
+
+例如，带有单词“I AM X”的歌曲可以转换为dubstep remix为“WUBWUBIWUBAMWUBWUBX”，并且无法转换为“WUBWUBIAMWUBX”。
+
+最近，Jonny听说过Polycarpus新的dubstep音轨，但由于他不是现代音乐，他决定找出Polycarpus重新混音的最初歌曲。帮助Jonny恢复原始歌曲。
+
+输入
+输入由单个非空字符串组成，仅由大写英文字母组成，字符串的长度不超过200个字符
+
+产量
+返回Polycarpus用来制作dubsteb混音的最初歌曲的单词。用空格分隔单词。
+
+例子
+song_decoder("WUBWEWUBAREWUBWUBTHEWUBCHAMPIONSWUBMYWUBFRIENDWUB")
+  # =>  WE ARE THE CHAMPIONS MY FRIEND
